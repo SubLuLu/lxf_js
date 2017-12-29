@@ -1,0 +1,13 @@
+{
+	"gitbook": "2.x",
+	"title": "JavaScript全栈教程",
+	"description": "<JavaScript全栈教程>PDF版",
+	"language": "zh-hans",
+	"structure": {
+		"readme": "README.md"
+	},
+	"plugins": [
+		"katex",
+		"-search"
+	]
+}
