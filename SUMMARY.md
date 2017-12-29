@@ -21,7 +21,7 @@
     * [sort](2.7.md)
     * [闭包](2.8.md)
     * [箭头函数](2.9.md)
-    * [generator](2.9.md)
+    * [generator](2.10.md)
 
 
 
