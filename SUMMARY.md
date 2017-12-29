@@ -71,7 +71,12 @@
         * [http](9.5.3.md)
         * [crypto](9.5.4.md)
     * [web开发](9.6.md)
-    
+        * [stream](9.6.1.md)
+        * [http](9.6.2.md)
+        * [crypto](9.6.3.md)
+        * [stream](9.6.4.md)
+        * [http](9.6.5.md)
+        * [crypto](9.6.6.md)
     * [自动化工具](9.7.md)
 
 
