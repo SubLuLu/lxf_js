@@ -54,6 +54,12 @@
 * [错误处理](7.0.md)
     * [错误传播](7.1.md)
     * [异步错误处理](7.2.md)
+* [underscore](8.0.md)
+    * [Collections](8.1.md)
+    * [Arrays](8.2.md)
+    * [Functions](8.3.md)
+    * [Objects](8.4.md)
+    * [Chaining](8.5.md)
 
 
 
