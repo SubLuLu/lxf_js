@@ -1,4 +1,4 @@
 # 目录
 
 * [简介](README.md)
-* [First Chapter](chapter1.md)
+* [快速入门](chapter1.md)
