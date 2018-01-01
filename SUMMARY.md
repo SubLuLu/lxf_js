@@ -77,6 +77,8 @@
             * [使用Nunjucks](9.6.1.3.md)
             * [使用MVC](9.6.1.4.md)
         * [mysql](9.6.2.md)
+            * [使用Sequelize](9.6.2.1.md)
+            * [建立Model](9.6.2.2.md)
         * [mocha](9.6.3.md)
         * [WebSocket](9.6.4.md)
         * [REST](9.6.5.md)
