@@ -90,6 +90,11 @@
             * [编写REST API](9.6.5.1.md)
             * [开发REST API](9.6.5.2.md)
         * [MVVM](9.6.6.md)
+            * [使用Sequelize](9.6.6.1.md)
+            * [建立Model](9.6.6.2.md)
+            * [使用Sequelize](9.6.6.3.md)
+            * [建立Model](9.6.6.4.md)
+            * [使用Sequelize](9.6.6.5.md)
     * [自动化工具](9.7.md)
 
 
